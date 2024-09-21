@@ -1,4 +1,4 @@
-# Obesity Classification Model
+# Obesity Prediction Model
 
 ## Overview
 This project involves building a machine learning model to predict the obesity category of a person based on various features such as age, height, weight, BMI, and gender. The model is trained using a dataset from Kaggle.
